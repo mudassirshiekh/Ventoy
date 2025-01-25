@@ -23,6 +23,7 @@ Most type of OS supported(Windows/WinPE/Linux/Unix/ChromeOS/Vmware/Xen...) <br/>
 </h4>
 
 # Tested OS
+## By Mudassir Alam
 **Windows**  
 Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 11, Windows Server 2012, Windows Server 2012 R2, Windows Server 2016, Windows Server 2019, Windows Server 2022, WinPE
 
